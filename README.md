@@ -1,1 +1,1 @@
-A collection of ocaml projects
+A collection of ocaml projects. Will be added once semester is finished.
